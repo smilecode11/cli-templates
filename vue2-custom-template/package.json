@@ -1,0 +1,15 @@
+{
+  "name": "smiling-cli-vue2-custom-template",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.1",
+    "glob": "^7.1.7",
+    "fs-extra": "^10.0.0",
+    "ejs": "^3.1.6"
+  }
+}

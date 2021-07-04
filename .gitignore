@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+
+**/node_modules
+**/.DS_Store
+**/.vsCode
+
+**/template/node_modules
+**/template/.DS_Store
+**/template/.vsCode 
